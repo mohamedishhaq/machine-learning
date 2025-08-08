@@ -1,4 +1,4 @@
-# Beginner Data Preprocessing & ML
+# Data Preprocessing & ML
 
 This repo has beginner Python code for:
 
